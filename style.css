@@ -218,7 +218,7 @@ h1, h2, h3, h4, .logo, .navbar a, .btn {
     width: 100%;
     min-height: 100vh;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 120px 5% 50px;
     position: relative;
